@@ -7,7 +7,7 @@ namespace Hcc\Engine\Core {
         public static function init() {
             return "aa";
         }
-
+        
     }
 
 }

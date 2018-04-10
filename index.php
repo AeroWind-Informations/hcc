@@ -1,3 +1,3 @@
 <?php
 require "hcc/autoload.php";
-var_dump($hcc);
+var_dump($hcc->Market->getPlugins());
